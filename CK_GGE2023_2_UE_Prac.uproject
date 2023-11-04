@@ -15,6 +15,14 @@
 		{
 			"Name": "ActorPalette",
 			"Enabled": true
+		},
+		{
+			"Name": "GPULightmass",
+			"Enabled": true
+		},
+		{
+			"Name": "RTXGI",
+			"Enabled": false
 		}
 	]
 }
